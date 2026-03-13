@@ -8,7 +8,6 @@ nav_order: 7
 
 profiles:
   - name: Lieselot Carrette
-    group: pi
     align: right
     image: Lieselot_portrait.jpg
     content: about_lieselot.md
@@ -20,7 +19,6 @@ profiles:
       <p><a href="mailto:lcarrette@health.ucsd.edu">lcarrette@health.ucsd.edu</a></p>
 
   - name: Daria Kouzminova
-    group: undergrad
     align: right
     image: Daria_portrait.jpg
     image_circular: false
@@ -28,7 +26,6 @@ profiles:
       <p><a href="mailto:dkouzminova@ucsd.edu">dkouzminova@ucsd.edu</a></p>
 
   - name: Selin Boyaci
-    group: undergrad
     align: right
     image: Selin_portrait.jpg
     image_circular: false
@@ -36,7 +33,6 @@ profiles:
       <p><a href="mailto:sboyaci@ucsd.edu">sboyaci@ucsd.edu</a></p>
 
   - name: Simone Werner
-    group: visit
     align: right
     image: Simone_portrait.jpg
     image_circular: false
@@ -44,7 +40,6 @@ profiles:
       <p><a href="mailto:24IMC11220@imc.ac.at">24IMC11220@imc.ac.at</a></p>
 
   - name: Selene Bonnet
-    group: visit
     align: right
     image: Selene_portrait.jpg
     image_circular: false
@@ -52,38 +47,7 @@ profiles:
       <p><a href="mailto:sbonnetzahedi@health.ucsd.edu">sbonnetzahedi@health.ucsd.edu</a></p>
 
   - name: Joseph Mosquera
-    group: alumni
     align: right
     image: Joseph_portrait.jpg
     image_circular: false
 ---
-
-## Principal Investigator
-
-{% assign pi_profiles = page.profiles | where: "group", "pi" %}
-{% include profiles.liquid profiles=pi_profiles %}
-
-## Postdoctoral Scholars
-
-{% assign postdoc_profiles = page.profiles | where: "group", "postdoc" %}
-{% include profiles.liquid profiles=postdoc_profiles %}
-
-## Graduate Students
-
-{% assign grad_profiles = page.profiles | where: "group", "grad" %}
-{% include profiles.liquid profiles=grad_profiles %}
-
-## Visiting Students
-
-{% assign visit_profiles = page.profiles | where: "group", "visit" %}
-{% include profiles.liquid profiles=visit_profiles %}
-
-## Undergraduate Researchers
-
-{% assign undergrad_profiles = page.profiles | where: "group", "undergrad" %}
-{% include profiles.liquid profiles=undergrad_profiles %}
-
-## Alumni
-
-{% assign alumni_profiles = page.profiles | where: "group", "alumni" %}
-{% include profiles.liquid profiles=alumni_profiles %}
