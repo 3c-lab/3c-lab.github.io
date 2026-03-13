@@ -58,8 +58,7 @@ profiles:
       more_info: >
         <p><a href="mailto:sbonnetzahedi@health.ucsd.edu">sbonnetzahedi@health.ucsd.edu</a></p>
 
-
-     - name: Joseph Mosquera 
+    - name: Joseph Mosquera 
       group: alumni
       align: right
       image: Joseph_portrait.jpg
