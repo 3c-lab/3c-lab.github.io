@@ -5,27 +5,7 @@ title: people
 description: members of the lab
 nav: true
 nav_order: 7
----
 
-## Principal Investigator
-
-{% include profiles.liquid profiles=page.profiles | where: "group", "pi" %}
-
-## Postdoctoral Scholars
-
-{% include profiles.liquid profiles=page.profiles | where: "group", "postdoc" %}
-
-## Graduate Students
-
-{% include profiles.liquid profiles=page.profiles | where: "group", "grad" %}
-
-## Undergraduate Researchers
-
-{% include profiles.liquid profiles=page.profiles | where: "undergrad" %}
-
-## alumni
-
-{% include profiles.liquid profiles=page.profiles | where: "alumni" %}
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -52,3 +32,25 @@ profiles:
       <p>555 your office number</p>
 
 ---
+
+## Principal Investigator
+
+{% include profiles.liquid profiles=page.profiles | where: "group", "pi" %}
+
+## Postdoctoral Scholars
+
+{% include profiles.liquid profiles=page.profiles | where: "group", "postdoc" %}
+
+## Graduate Students
+
+{% include profiles.liquid profiles=page.profiles | where: "group", "grad" %}
+
+## Undergraduate Researchers
+
+{% include profiles.liquid profiles=page.profiles | where: "group", "undergrad" %}
+
+## alumni
+
+{% include profiles.liquid profiles=page.profiles | where: "group", "alumni" %}
+
+
