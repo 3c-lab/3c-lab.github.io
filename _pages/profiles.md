@@ -10,7 +10,7 @@ nav_order: 7
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - name: Lieselot Carrette
+    - name: Lieselot Carrette
     group: pi
     align: right
     image: lieselot_portrait.jpg
@@ -22,7 +22,7 @@ profiles:
       <p>UC San Diego</p>
       <p><a href="mailto:lcarrette@health.ucsd.edu">lcarrette@health.ucsd.edu</a></p>
 
-  - name: Daria Kouzminova 
+    - name: Daria Kouzminova 
     group: undergrad
     align: right
     image: Daria_portrait.jpg
@@ -31,7 +31,7 @@ profiles:
     more_info: >
       <p><a href="mailto:dkouzminova@ucsd.edu">dkouzminova@ucsd.edu</a></p>
 
- - name: Selin Boyaci 
+    - name: Selin Boyaci 
     group: undergrad
     align: right
     image: Selin_portrait.jpg
@@ -40,7 +40,7 @@ profiles:
     more_info: >
       <p><a href="mailto:sboyaci@ucsd.edu">sboyaci@ucsd.edu</a></p>
 
- - name: Simone Werner
+    - name: Simone Werner
     group: visit
     align: right
     image: Simone_portrait.jpg
@@ -49,17 +49,17 @@ profiles:
     more_info: >
       <p><a href="mailto:24IMC11220@imc.ac.at">24IMC11220@imc.ac.a</a></p>
 
- - name: Selene Bonnet 
+    - name: Selene Bonnet 
     group: visit
     align: right
     image: Selene_portrait.jpg
     content: 
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p><a href="sbonnetzahedi@health.ucsd.edu">sbonnetzahedi@health.ucsd.edu</a></p>
+      <p><a href="mailto:sbonnetzahedi@health.ucsd.edu">sbonnetzahedi@health.ucsd.edu</a></p>
 
 
- - name: Joseph Mosquera 
+     - name: Joseph Mosquera 
     group: alumni
     align: right
     image: Joseph_portrait.jpg
