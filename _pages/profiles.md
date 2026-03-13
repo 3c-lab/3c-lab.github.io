@@ -60,24 +60,30 @@ profiles:
 
 ## Principal Investigator
 
-{% include profiles.liquid profiles=page.profiles | where: "group", "pi" %}
+{% assign pi_profiles = page.profiles | where: "group", "pi" %}
+{% include profiles.liquid profiles=pi_profiles %}
 
 ## Postdoctoral Scholars
 
-{% include profiles.liquid profiles=page.profiles | where: "group", "postdoc" %}
+{% assign postdoc_profiles = page.profiles | where: "group", "postdoc" %}
+{% include profiles.liquid profiles=postdoc_profiles %}
 
 ## Graduate Students
 
-{% include profiles.liquid profiles=page.profiles | where: "group", "grad" %}
+{% assign grad_profiles = page.profiles | where: "group", "grad" %}
+{% include profiles.liquid profiles=grad_profiles %}
 
 ## Visiting Students
 
-{% include profiles.liquid profiles=page.profiles | where: "group", "visit" %}
+{% assign visit_profiles = page.profiles | where: "group", "visit" %}
+{% include profiles.liquid profiles=visit_profiles %}
 
 ## Undergraduate Researchers
 
-{% include profiles.liquid profiles=page.profiles | where: "group", "undergrad" %}
+{% assign undergrad_profiles = page.profiles | where: "group", "undergrad" %}
+{% include profiles.liquid profiles=undergrad_profiles %}
 
 ## Alumni
 
-{% include profiles.liquid profiles=page.profiles | where: "group", "alumni" %}
+{% assign alumni_profiles = page.profiles | where: "group", "alumni" %}
+{% include profiles.liquid profiles=alumni_profiles %}
