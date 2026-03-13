@@ -45,7 +45,7 @@ work_url: https://profiles.ucsd.edu/lieselot.carrette # work page URL
 x_username: @LotCarrett # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: orcid.logo.svg # can be png, svg, jpg
-  title: Orcid
-  url: https://orcid.org/0000-0002-5217-2774
+# custom_social: # can be any name here other than the ones already defined above
+  #logo: orcid.logo.svg # can be png, svg, jpg
+  #title: Orcid
+ # url: https://orcid.org/0000-0002-5217-2774
