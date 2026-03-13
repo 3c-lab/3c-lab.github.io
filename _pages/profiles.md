@@ -10,7 +10,7 @@ profiles:
   - name: Lieselot Carrette
     group: pi
     align: right
-    image: lieselot_portrait.jpg
+    image: Lieselot_portrait.jpg
     content: about_lieselot.md
     image_circular: false
     more_info: >
