@@ -461,11 +461,11 @@ ninja.data = [{
           description: "Multi-parametric MRI and whole-brain imaging of oxycodone addiction-like behaviors",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_opioid/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-rett-syndrome",
+          title: 'Rett Syndrome',
+          description: "Whole-brain functional connectivity mapping in MeCP2-deficient mouse models",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/3_rett/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
