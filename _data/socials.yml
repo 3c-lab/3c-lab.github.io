@@ -37,15 +37,15 @@ email: lcarrette@health.ucsd.edu # your email address
 # stackoverflow_id: # your stackoverflow id
 # telegram_username: # your Telegram user name
 # unsplash_id: # your unsplash id
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+# wechat_qr: # filename of your wechat qr-code saved as an image
+# whatsapp_number: # your WhatsApp number
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: https://profiles.ucsd.edu/lieselot.carrette # work page URL
-x_username: @LotCarrett # your X handle
-# youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+x_username: LotCarrett # your X handle (no @ symbol)
+# youtube_id: # your youtube channel id
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
-  #logo: orcid.logo.svg # can be png, svg, jpg
-  #title: Orcid
- # url: https://orcid.org/0000-0002-5217-2774
+  # logo: orcid.logo.svg # can be png, svg, jpg
+  # title: Orcid
+  # url: https://orcid.org/0000-0002-5217-2774
