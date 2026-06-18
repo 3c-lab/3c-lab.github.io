@@ -501,7 +501,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("lieselotc.bsky.social", "_blank");
+          window.open("https://bsky.app/profile/lieselotc.bsky.social", "_blank");
         },
       },{
         id: 'social-email',
@@ -523,13 +523,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/LotCarrett", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0000-0002-5217-2774", "_blank");
         },
       },{
       id: 'light-theme',
