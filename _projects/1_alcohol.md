@@ -19,3 +19,6 @@ The brain of a subset of animals will be harvested after longitudinal MRI for co
 Through this collaborative endeavor with the Rat Alcohol Biobank, we anticipate the generation of a large, diverse, and high-quality dataset that will be made publicly available and will contribute significantly to our understanding of the diverse impact of alcohol on the brain and individual differences in vulnerability to AUD. This Katz proposal provides a unique opportunity to disentangle pre-existing differences from those that are a consequence of exposure to alcohol using a, for the PI new, clinically relevant approach, which will complement her current preclinical work with SCWBI and simplify the translation of the findings for human applications. Ultimately, this research seeks to pave the way for improved prevention and personalized treatment strategies, thereby reducing illness and disability associated with AUD.
 
 **Supported by NIH – NIAAA 1R01AA031958**
+
+
+![](/assets/img/prof_pic.jpg)
