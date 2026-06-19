@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/alumni/";
           },
-        },{id: "post-notice-of-award-nida-r03da064666",
+        },{id: "post-poster-presentation-at-nida-genetics-and-epigenetics-cross-cutting-research-team-meeting",
+        
+          title: "Poster presentation at NIDA Genetics and Epigenetics Cross-Cutting Research Team Meeting",
+        
+        description: "New results from Daria and Simone presented at the NIDA Genetics and Epigenetics Cross-Cutting Research Team Meeting",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/nida-poster/";
+          
+        },
+      },{id: "post-notice-of-award-nida-r03da064666",
         
           title: "Notice of Award — NIDA R03DA064666",
         
