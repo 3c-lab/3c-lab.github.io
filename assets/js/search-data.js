@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/alumni/";
           },
-        },{id: "post-simone-werner-joins-the-lab",
+        },{id: "post-notice-of-award-nida-r03da064666",
+        
+          title: "Notice of Award — NIDA R03DA064666",
+        
+        description: "Longitudinal Multiparametric MRI of Outbred Rats with Variable Vulnerability to Oxycodone Addiction-like Behaviors",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/nida-award/";
+          
+        },
+      },{id: "post-simone-werner-joins-the-lab",
         
           title: "Simone Werner joins the lab",
         
