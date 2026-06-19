@@ -5,7 +5,7 @@ permalink: /
 subtitle: Looking to understand conditional and individual differences in brain states.
 profile:
   align: right
-  image: lab_quote.jpeg
+  image: quote.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>UC San Diego Health</p>
