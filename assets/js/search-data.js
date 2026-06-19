@@ -44,12 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-join-us",
+          title: "join us",
+          description: "open positions and opportunities in the 3c Lab",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/join-us/";
           },
         },{id: "nav-alumni",
           title: "alumni",
