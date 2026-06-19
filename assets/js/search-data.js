@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/alumni/";
           },
-        },{id: "post-notice-of-award-niaaa-r01aa031958",
+        },{id: "post-simone-werner-joins-the-lab",
+        
+          title: "Simone Werner joins the lab",
+        
+        description: "A new visiting master student joins the 3c Lab",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/simone-joins/";
+          
+        },
+      },{id: "post-notice-of-award-niaaa-r01aa031958",
         
           title: "Notice of Award — NIAAA R01AA031958",
         
