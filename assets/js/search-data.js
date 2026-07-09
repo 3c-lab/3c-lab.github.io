@@ -129,10 +129,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-alcohol-use-disorder",
+            },},{id: "projects-alcohol-use-disorder",
           title: 'Alcohol Use Disorder',
           description: "Multi-parametric MRI and whole-brain imaging of AUD vulnerability and resilience",
           section: "Projects",handler: () => {
