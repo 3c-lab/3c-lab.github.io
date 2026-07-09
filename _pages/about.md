@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Looking to understand conditional and individual differences in brain states.**
+subtitle: <strong>Looking to understand conditional and individual differences in brain states.</strong>
 profile:
   align: right
   image: STOCK_Geisel.jpg
