@@ -1,9 +1,5 @@
 github_users:
-
-repo_description_lines_max: 2
-
 github_repos:
   - 3c-lab/operant-data-pipeline 
-  - George-LabX/Publications/2023 eneuro
-  - alshedivat/al-folio
+
 
