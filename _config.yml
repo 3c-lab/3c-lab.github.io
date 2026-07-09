@@ -7,12 +7,11 @@ first_name: C³
 middle_name: 
 last_name: lab
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Say hi! The best way to reach us is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The 3c Lab (congition, connectomes, and carrette) studies individual differences in addiction-related phenotypes across diverse rodent models through behavior and imaging.
+  The 3c Lab (cognition, connectomes, and carrette) studies individual differences in addiction-related phenotypes across diverse rodent models through behavior and imaging.
 footer_text: >
-  © 2026 3C Lab, UC San Diego. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. and al-folio. Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  © 2026 3C Lab, UC San Diego. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a>. Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: addiction neuroscience, connectomics, rodent behavior, brain imaging, individual differences
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/) --> if make a logo
