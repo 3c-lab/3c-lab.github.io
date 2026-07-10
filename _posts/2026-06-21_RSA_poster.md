@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Poster presentation at RSA Meeting
-date: 2026-06-21 00:00:00
+date: 2026-06-21 10:10:00
 description: New results presented at the scientific meeting of the Research Society for Alcohol
 tags: presentations
 categories: news
