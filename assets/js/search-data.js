@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/alumni/";
           },
-        },{id: "post-poster-presentation-at-nida-genetics-and-epigenetics-cross-cutting-research-team-meeting",
+        },{id: "post-website-under-construction",
+        
+          title: "website under construction",
+        
+        description: "Generating a website for the 3c lab",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/websiteunderconstruction/";
+          
+        },
+      },{id: "post-poster-presentation-at-nida-genetics-and-epigenetics-cross-cutting-research-team-meeting",
         
           title: "Poster presentation at NIDA Genetics and Epigenetics Cross-Cutting Research Team Meeting",
         
