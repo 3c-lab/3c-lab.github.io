@@ -62,7 +62,7 @@ ninja.data = [{
         
           title: "3C lab attending CNCM2026",
         
-        description: "Lab trip to Irvine to CNCM2026",
+        description: "Lab trip to Irvine to CNCM2026! Selene and Daria presented posters — and Daria received a travel award.",
         section: "Posts",
         handler: () => {
           
