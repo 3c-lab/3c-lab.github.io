@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/alumni/";
           },
-        },{id: "post-website-under-construction",
+        },{id: "post-3c-lab-attending-cncm2026",
+        
+          title: "3C lab attending CNCM2026",
+        
+        description: "Lab trip to Irvine to CNCM2026",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/CNCM-poster/";
+          
+        },
+      },{id: "post-website-under-construction",
         
           title: "website under construction",
         
