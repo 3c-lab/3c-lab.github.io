@@ -8,5 +8,6 @@ categories: news
 thumbnail: assets/img/CNCM26.jpg
 ---
 
-1[Lab road trip with and poster presentations by Selene and Daria, who also received a travel award.]!(/assets/img/CNCM26.jpg)
-Lab road trip to Irvine for CNCM2026! Selene and Daria presented posters — and Daria received a travel award. 🎉
+![Lab road trip with poster presentations by Selene and Daria, who also received a travel award.](/assets/img/CNCM26.jpg)
+
+Lab road trip to Irvine for CNCM2026! Selene and Daria presented posters — and Daria received a travel award.
